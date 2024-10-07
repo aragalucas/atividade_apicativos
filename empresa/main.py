@@ -1,4 +1,3 @@
-
 from models.funcionario import Funcionario
 from models.endereco import Endereco
 from enums.tipo_funcionario import TipoFuncionario
